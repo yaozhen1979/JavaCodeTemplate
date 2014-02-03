@@ -53,6 +53,7 @@ dependencies {
 	compile 'ch.qos.logback:logback-classic:1.0.13'
 	compile 'ch.qos.logback:logback-core:1.0.13'
 	compile "joda-time:joda-time:2.3"
+	// TODO:add itext dependecies
 	testCompile group: 'junit', name: 'junit', version: '4.+'
 }
 
